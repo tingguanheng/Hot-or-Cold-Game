@@ -2,7 +2,7 @@
 My first attempt to learn Object Oriented Programming (OOP) through project.
 
 How it works:
-Simply run the entire script by pressing F5 (for Anaconda Spyder) or other keys to run a python script in other IDEs.
+Simply run the entire script by pressing F5 (for Anaconda Spyder) or other keys to run the script in other IDEs.
 The only input you will need to make in the console is any number between 1 to 100.
 You can try any other inputs, there are special comments for them.
 
